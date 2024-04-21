@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="00 - SINTAXIS, VARIABLES, TIPOS DE DATOS Y HOLA MUNDO/java"/>
+	<classpathentry kind="src" path="01 - OPERADORES Y ESTRUCTURAS DE CONTROL/java"/>
+	<classpathentry kind="src" path="02 - FUNCIONES Y ALCANCE/java"/>
+	<classpathentry kind="src" path="03 - ESTRUCTURAS DE DATOS/java"/>
+	<classpathentry kind="src" path="04 - CADENAS DE CARACTERES/java"/>
+	<classpathentry kind="src" path="05 - VALOR Y REFERENCIA/java"/>
+	<classpathentry kind="src" path="06 - RECURSIVIDAD/java"/>
+	<classpathentry kind="src" path="07 - PILAS Y COLAS/java"/>
+	<classpathentry kind="src" path="08 - CLASES/java"/>
+	<classpathentry kind="src" path="09 - HERENCIA/java"/>
+	<classpathentry kind="src" path="10 - EXCEPCIONES/java"/>
+	<classpathentry kind="src" path="11 - MANEJO DE FICHEROS/java"/>
+	<classpathentry kind="src" path="12 - JSON Y XML/java"/>
+	<classpathentry kind="src" path="13 - PRUEBAS UNITARIAS/java"/>
+	<classpathentry kind="src" path="14 - FECHAS/java"/>
+	<classpathentry kind="src" path="15 - ASINCRONÍA/java"/>
+	<classpathentry kind="src" path="16 - EXPRESIONES REGULARES/java"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
